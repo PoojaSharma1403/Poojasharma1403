@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pooja! <br/><a href="https://github.com/joshmadakor1">Google Certified Cyber Security expert</a> <a href="www.linkedin.com/in/pooja1403/"> 
+<h1>Hi, I'm Pooja! <br/><a href="">Google Certified Cyber Security expert</a> <a href="www.linkedin.com/in/pooja1403/"> 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
