@@ -1,55 +1,63 @@
-<h1>Hi, I'm Pooja! <br/><a href="">Google Certified Cyber Security expert</a> <a href="www.linkedin.com/in/pooja1403/"> 
+# 👋 Hi, I'm Pooja Sharma
 
-<h2>👨‍💻 Software Development Projects:</h2>
+🎓 Cybersecurity Professional | SOC Analyst | Cloud Security | Python Automation
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+---
 
-<h2>📺 Popular YouTube Videos</h2>
+## 🧠 About Me
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+I'm a passionate and hands-on cybersecurity professional with a Master’s in Computer Science & Cybersecurity from Harrisburg University. I specialize in **Security Operations (SOC)**, **Threat Detection**, **Incident Response**, and **Cloud Security (AWS & Office 365)**.
 
-<h2> 🤳 Connect with me:</h2>
+During my academic journey and freelance work (2020–2021), I’ve built a strong technical foundation through self-initiated projects, real-world simulations, and teaching cybersecurity concepts.
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+I love working with **SIEM (Splunk)**, scripting in **Python/Bash**, and analyzing logs to catch bad actors before they strike. 🚀
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+---
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Experience Highlights
 
-Here are some ideas to get you started:
+- 🎯 **Freelance Cybersecurity Analyst (2020–2021)**  
+  Conducted vulnerability assessments, phishing investigations, AWS/O365 hardening, and incident response simulations.  
+  👉 [Freelance Cybersecurity Lab Repo](https://github.com/yourusername/freelance-cybersecurity-lab)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hyper Icon
+- 🧑‍🏫 **Cybersecurity Instructor (2021–2022)**  
+  Trained students in ethical hacking, Python scripting, and network security.
+
+- 🛡️ **SOC Analyst (2024–Present)**  
+  Monitor and investigate threats in real-time using Splunk, Windows logs, and threat intelligence.
+
+---
+
+## 📘 Education
+
+🎓 **M.S. in Computer Science & Cybersecurity**  
+*Harrisburg University, 2022–2024*
+
+🎓 **B.S. in Information Technology**  
+*Gujarat Technological University, 2016–2019*
+
+---
+
+## 🔧 Technical Skills
+
+- **SOC & IR**: Splunk, MITRE ATT&CK, SIEM, Incident Response, Threat Hunting
+- **Network Security**: Wireshark, Nmap, Burp Suite, VPN, IDS/IPS
+- **Cloud**: AWS, Office 365, IAM, MFA, Security Hardening
+- **Scripting**: Python, Bash, PowerShell
+- **Operating Systems**: Windows, Linux, macOS
+- **Tools**: Security Onion, Git, Active Directory
+
+---
+
+## 📂 Featured Projects
+
+- 🕵️‍♀️ [Freelance Cybersecurity Lab](https://github.com/yourusername/freelance-cybersecurity-lab)
+- 🔍 TryHackMe Labs & Writeups (Coming soon)
+- 📊 SIEM Dashboards: Sample Splunk queries and visualizations
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 [LinkedIn](https://linkedin.com/in/pooja1403)
+- ✉️ pksharma1728@gmail.com
